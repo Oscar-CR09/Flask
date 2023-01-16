@@ -1,0 +1,8 @@
+python -m pip install flask
+es igual a instalar flask
+
+flask run
+es igual a correr en el servidor para visualizar la aplicacion
+
+ set FLASK_APP=app.py
+ set FLASK_ENV=development
